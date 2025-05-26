@@ -1,3 +1,5 @@
 # IMAD5112_Assignment2
 
-Image
+GitHub Link:
+
+https://github.com/st10490679/IMAD5112_Assignment2
