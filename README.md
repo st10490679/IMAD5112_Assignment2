@@ -4,13 +4,13 @@ Report:
 
 The flashcard Quiz App is designed to help users test their knowledge of history through a quick and interactive true-or-false quiz. The app presents 5 randomly generated history related questions,and users must determine whether each statement is true or false.
 
-Key features:
-User friendly interface: Simple and clean layout for easy navigation
-Randomized Questions: Each session includes 5 history questions 
-True/false Format: Quick response answer buttons for each flashcard 
-instant feedback: Score is calculated and displayed at the end of the quiz 
-educational purpose: Aimed at reinforcing knowledge of historical facts in a fun and engaging way.
-In conclusion its a lightweight educational tool that can be expanded in the future for broader use across diffrent subjects.
+Design:
+Welcome Screen: Shows a brief description and a start button 
+Quiz Screen: Displays Questions, gives correct/Incorrect feedback, and has a Next button 
+Score Screen: Shows the final score, gives feedback , and includes a Review Button to see correct ansers and a finish button to close the app
+A Github repo was created for version control 
+Code was pushed regularly with clear commit messages 
+GitHub Actions was set up to run tests and check the build on each push.
 
 GitHub Link:
 
